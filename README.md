@@ -1,4 +1,4 @@
-# barcode_table_from_stats
+# Lineage barcode table from .stats file
 Generate a barcode table tsv from a 10X-GESTALT stats output file. For merging lineage barcodes with Seurat objects. 
 
 How to use: 
